@@ -6,7 +6,5 @@
 
 - 👆Random fact: Starfish do not have a brain.
 
-<div align="center">📋Dev Stats</div>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
