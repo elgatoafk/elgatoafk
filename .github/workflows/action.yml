@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    runs-on: Windows
+    runs-on: ubuntu-latest
     steps:
       - uses: elgatoafk/elgatoafk@main
         with:
