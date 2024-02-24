@@ -8,7 +8,7 @@
 
 ### <div align="center">📋My Dev Stats</div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,12 +49,13 @@ Sunday                   9 commits           ████░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-YAML                     39 mins             ██████████████████████░░░   86.17 % 
-Docker                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+YAML                     39 mins             ████████████████░░░░░░░░░   62.56 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +72,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elgatoafk/elgatoafk/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2024 22:09:55 UTC
+ Last Updated on 24/02/2024 22:25:32 UTC
 <!--END_SECTION:waka-->
