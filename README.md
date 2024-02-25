@@ -8,7 +8,7 @@
 
 ### <div align="center">📋My Dev Stats</div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,5 +72,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/elgatoafk/elgatoafk/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 15:22:09 UTC
+ Last Updated on 25/02/2024 15:32:09 UTC
 <!--END_SECTION:waka-->
