@@ -1,19 +1,8 @@
 # elgatoafk
-<styles> .flex-container {
-    display: flex;
-}
 
-.flex-child {
-    flex: 1;
-    border: 2px solid yellow;
-}  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} </styles>
-<div class="flex-container">
-<div align="center" class="flex-child magenta"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=714EF7&multiline=true&random=false&width=435&height=55&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></div>
-<div class="flex-child green"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></div>
+<div class="flex-container" styles="border: 1px solid black  margin: 1rem  padding: 2rem 2rem text-align: center">
+<div align="center" class="flex-child magenta"styles="display: inline-block  border: 1px solid red  padding: 1rem 1rem  vertical-align: middle"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=714EF7&multiline=true&random=false&width=435&height=55&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></div>
+<div class="flex-child green" styles="display: inline-block  border: 1px solid red  padding: 1rem 1rem  vertical-align: middle"><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></div>
 </div>
 <div align="center">📋My Dev Stats</div>
 <!--START_SECTION:waka-->
