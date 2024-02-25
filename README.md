@@ -1,6 +1,6 @@
 # elgatoafk
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5E2EF7&center=true&multiline=true&random=false&width=435&height=200&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=714EF7&multiline=true&random=false&width=435&height=55&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></div>
 <div align="center">📋My Dev Stats</div>
 <!--START_SECTION:waka-->
 
