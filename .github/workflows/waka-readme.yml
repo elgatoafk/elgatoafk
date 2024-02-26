@@ -19,3 +19,8 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          IGNORED_REPOS: "elgatoafk"
+          SYMBOL_VERSION: 3
+          TIMELINE: "False"
+          
