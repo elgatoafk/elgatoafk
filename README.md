@@ -3,8 +3,8 @@
 <table>
 <thead>
 <tr>
-<th>Who am I?</th>
-<th>Some dev jokes to light up your day</th>
+<th></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
