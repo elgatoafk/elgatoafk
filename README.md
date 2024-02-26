@@ -1,20 +1,8 @@
 # elgatoafk
 
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=714EF7&multiline=true&random=false&width=435&height=55&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></td>
-<td><img  style:"width: 400px" src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></td>
-</tr>
-</tbody>
-</table>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=714EF7&multiline=true&random=false&width=435&height=55&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8FHi%2C+I'm+Olena!;I'm+learning+Python+%F0%9F%90%8D" alt="Typing SVG" /></a></div>
 
+<div align="center">📋My Dev Stats</div>
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2012%20mins-blue)
@@ -83,3 +71,4 @@ HTML                     1 repo              ███░░░░░░░░�
 
  Last Updated on 25/02/2024 23:53:24 UTC
 <!--END_SECTION:waka-->
+<div><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></div>
