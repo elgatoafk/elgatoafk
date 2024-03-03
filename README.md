@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2049%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,9 +48,10 @@ Sunday                   12 commits          ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Python                   5 hrs 4 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   91.71 % 
-Markdown                 26 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.11 % 
-Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.18 % 
+Markdown                 26 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.66 % 
+Python                   17 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.59 % 
+Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 % 
+Git Config               0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,6 +68,6 @@ HTML                     1 repo              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/elgatoafk/elgatoafk/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2024 22:06:05 UTC
+ Last Updated on 03/03/2024 22:22:41 UTC
 <!--END_SECTION:waka-->
 <div><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></div>
