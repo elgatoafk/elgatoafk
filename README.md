@@ -70,4 +70,4 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 30/03/2024 17:20:15 UTC
 <!--END_SECTION:waka-->
-<div><img src="https://readme-jokes.vercel.app/api?theme=nightowl&borderColor=%23a70000" /></div>
+
