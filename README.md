@@ -7,7 +7,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,6 +66,6 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/elgatoafk/elgatoafk/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 20:54:40 UTC
+ Last Updated on 31/03/2024 21:09:22 UTC
 <!--END_SECTION:waka-->
 
