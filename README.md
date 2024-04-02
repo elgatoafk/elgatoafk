@@ -43,7 +43,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=elgatoafk&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=elgatoafk&show_icons=true&count_private=true&hide_border=true&theme=dracula&hide_rank=true" align="center" /></div>  
 
 <br/>  
 
