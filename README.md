@@ -49,18 +49,8 @@
 
 ## And here are some more statistics 🤓  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2047%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 19.4 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -93,6 +83,6 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 02/04/2024 00:57:01 UTC
+ Last Updated on 02/04/2024 01:53:54 UTC
 <!--END_SECTION:waka-->
 
