@@ -49,7 +49,7 @@
 
 ## And here are some more statistics 🤓  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2012%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -83,6 +83,6 @@ HTML                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 05/04/2024 18:22:03 UTC
+ Last Updated on 05/04/2024 18:32:34 UTC
 <!--END_SECTION:waka-->
 
