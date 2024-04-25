@@ -49,7 +49,7 @@
 
 ## And here are some more statistics 🤓  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%207%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -83,6 +83,6 @@ JavaScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 25/04/2024 13:26:46 UTC
+ Last Updated on 25/04/2024 13:36:59 UTC
 <!--END_SECTION:waka-->
 
