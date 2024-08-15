@@ -30,7 +30,7 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/olena-zo
 
 ## And here are some more statistics 🤓  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2046%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -56,13 +56,14 @@ Sunday                   142 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜�
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   93.55 % 
-HTML                     2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.45 % 
+Python                   29 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.62 % 
+HTML                     2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.25 % 
+Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.12 % 
 ```
 
 
 
 
- Last Updated on 15/08/2024 04:17:39 UTC
+ Last Updated on 15/08/2024 04:33:50 UTC
 <!--END_SECTION:waka-->
 
