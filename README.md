@@ -30,7 +30,7 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/olena-zo
 
 ## And here are some more statistics 🤓  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -65,6 +65,6 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 16/09/2024 04:54:28 UTC
+ Last Updated on 16/09/2024 05:15:28 UTC
 <!--END_SECTION:waka-->
 
